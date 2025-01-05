@@ -17,7 +17,8 @@ A simple application for working with retail data for marketing products using P
     pip install psycopg2
     pip install pandas
     pip install sqlalchemy
-
+    pip install matplotlib
+    pip install scikit-learn
     ```
 
 3. Requirements(Download programs)

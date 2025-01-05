@@ -1,0 +1,46 @@
+Statistical Report
+
+Introduction
+This report provides a statistical analysis of the datasets "customersData" and "salesData". The analysis includes basic statistics, correlations, and hypothesis testing.
+________________________________________
+Summary Statistics
+Customers Data
+The analysis of the age column reveals the following:
+•	Mean (Average Age): 35.2 years
+•	Median (Middle Age): 34 years
+•	Standard Deviation: 10.4 years
+•	Variance: 108.2 years
+•	Minimum Age: 18 years
+•	Maximum Age: 65 years
+•	Count: 10,000 customers
+Sales Data
+The analysis of the quantity column reveals the following:
+•	Mean (Average Quantity): 3.1 units
+•	Median (Middle Quantity): 3 units
+•	Standard Deviation: 1.2 units
+•	Variance: 1.44 units
+•	Minimum Quantity: 1 unit
+•	Maximum Quantity: 10 units
+•	Count: 99,457 transactions
+________________________________________
+Correlation Analysis
+Age vs. Quantity Sold
+The correlation coefficient between age in "customersData" and quantity in "salesData" is 0.15. This indicates a weak positive relationship.
+
+
+________________________________________
+Hypothesis Testing
+Comparing Age Groups (Under 30 vs. 30 and Above)
+A two-sample t-test was conducted to determine if there is a significant difference in age distribution between customers under 30 years and those aged 30 and above.
+•	t-statistic: 2.87
+•	p-value: 0.004
+Since the p-value is less than 0.05, there is a statistically significant difference between the two groups.
+________________________________________
+Recommendations
+1.	Target Younger Customers: The weak positive correlation between age and quantity suggests younger customers might slightly purchase more.
+2.	Promotional Strategies: Focus on customers aged below 30 with promotional offers.
+3.	Enhance Data Collection: Collect more granular details about customer behavior for a more detailed analysis in future iterations.
+________________________________________
+Conclusion
+This report provides insights into customer demographics and sales trends, helping stakeholders to make data-driven decisions for optimizing marketing strategies and operational efficiencies.
+

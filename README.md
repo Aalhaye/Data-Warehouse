@@ -20,7 +20,7 @@ A simple application for working with retail data for marketing products using P
 
     ```
 
-3. Download programs
+3. Requirements(Download programs)
    ```bash
    - postgresql  ## Program to handle data in sql format
    - jupyter  #To handle, clean and process data 
@@ -31,13 +31,18 @@ A simple application for working with retail data for marketing products using P
     ```bash
     python final.py
     ```
-
+    
 ## Usage
+1- After downloading the programs and libraries.
+2- Activate postgrest, create a database and connect to it through python code.
+3- Download the files inside the file or call them through the API.
+4- Run the file through the command prompt.
 
 
 
-
-
+## Communication and support
+Email:alhayekahmed045@gmail.com
+phone number: 0597967157
 
 
 

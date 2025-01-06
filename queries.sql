@@ -51,7 +51,7 @@ ORDER BY
 --	 
 
 
--- Question 4: What age group of customers spends the most at each mall?
+-- Question 4: What are the top-selling product categories in each mall?
 SELECT 
     shopping_mall,
     category,
